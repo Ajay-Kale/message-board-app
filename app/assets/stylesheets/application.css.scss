@@ -17,13 +17,17 @@
  @import "bootstrap";
 .navbar
 {
-  background-color: orange;
-  color: black;
+  color: red;
+  background-color: white;
   font-size: 18px;
-  font-weight: bold;
+
 }
 
 .navbar-right
 {
   margin-right: 25px;
+}
+
+.dis{
+  margin-left: 18px;
 }
